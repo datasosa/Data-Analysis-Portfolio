@@ -1,18 +1,37 @@
-# Data-Analysis-Portfolio  
-A collection of data analysis projects using SQL, Python (Pandas, Power BI), and Excel. Focused on cleaning, visualizing, and extracting business insights from real-world datasets. Structured workflows with code, reports, and documentation.  
+# 📊 Data Analysis Portfolio  
 
-## 🛠️ Skills  
-- **Languages:** SQL, Python  
-- **Tools:** Pandas, Power BI, Excel  
-- **Methods:** Data cleaning, visualization, trend analysis  
+A curated collection of real-world data analysis projects using **SQL**, **Python (Pandas)**, **Power BI**, and **Excel** — built to extract insights, drive strategy, and showcase data storytelling. Every project includes structured workflows, visuals, and business-impact narratives.
 
-## Projects  
-- [🛒 Blinkit Supermart Sales Analysis](https://github.com/datasosa/Blinkit_Supermart_Sales_Analysis)  
-  *Power BI dashboard analyzing $1M+ sales data (Jan-Jun 2023). Key findings: Regular fat items drove 68% revenue, Tier 3 outlets outperformed others by 25%. Built with DAX measures, interactive filters, and custom visualizations.*
+---
 
-- [🥤 Coca-Cola Retail Analysis](https://github.com/datasosa/Coca_Cola_Retail_Analysis)  
-  *Power BI dashboard identifying key profit drivers (Coca-Cola brand = +$501 impact) and geographic sales trends.*
+## 🛠️ Core Skills  
 
+- **Languages**: SQL, Python  
+- **Tools**: Power BI, Pandas, Excel  
+- **Techniques**: Data Cleaning, KPI Design, Interactive Dashboards, Trend & Profitability Analysis  
 
-## 📫 Contact  
-Open to opportunities! Reach me at: [email](mailto:osasosagierich@gmail.com) | [LinkedIn](https://www.linkedin.com/in/osas-osagie)  
+---
+
+## 🚀 Featured Projects  
+
+### 🛒 [Blinkit Supermart Sales Analysis](https://github.com/datasosa/Blinkit_Supermart_Sales_Analysis)  
+> **Power BI dashboard** analyzing over **$1M** in sales (Jan–Jun 2023).  
+> 🔹 *68% of revenue came from Regular Fat items*  
+> 🔹 *Tier 3 outlets outperformed by 25%*  
+> 🔹 Features DAX-driven KPIs, interactive filters, custom visuals.
+
+---
+
+### 🥤 [Coca-Cola Retail Sales Dashboard](https://github.com/datasosa/Coca_Cola_Retail_Analysis)  
+> Regional **profitability analysis** using Power BI.  
+> 🔹 *Coca-Cola brand = +$501 avg profit driver*  
+> 🔹 *Gulf Coast region dominates sales*  
+> 🔹 Bubble maps, Key Influencers, automated Q&A panel
+
+---
+
+## 📫 Let’s Connect  
+
+I’m open to data analyst roles, freelancing, and collabs.  
+📧 [osasosagierich@gmail.com](mailto:osasosagierich@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/osas-osagie)
