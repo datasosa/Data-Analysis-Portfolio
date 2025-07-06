@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Frontendbanner.png" alt="Osasele Osagie Banner" width="100%" />
+</p>
+
 # 📊 Data Analysis Portfolio  
 
 A curated collection of real-world data analysis projects using *SQL, **Python (Pandas), **Power BI, and **Excel* — built to extract insights, drive strategy, and showcase data storytelling. Every project includes structured workflows, visuals, and business-impact narratives.
