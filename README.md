@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Frontendbanner.png" alt="Osasele Osagie Banner" width="100%" />
+  <img src="Dataanalystbanner.png" alt="Osasele Osagie Banner" width="100%" />
 </p>
 
 # 📊 Data Analysis Portfolio  
