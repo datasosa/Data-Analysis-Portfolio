@@ -1,0 +1,176 @@
+/* Animation */
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, sans-serif;
+  background: #f5f7fa;
+  color: #1f2937;
+  animation: fadeIn 0.5s ease-in;
+  line-height: 1.6;
+}
+
+.banner {
+  width: 100%;
+  max-height: 320px;
+  object-fit: cover;
+  display: block;
+  margin-bottom: 1rem;
+}
+
+header.hero {
+  background: #0f172a;
+  color: #fff;
+  text-align: center;
+  padding: 4rem 1rem 3rem;
+  animation: fadeInUp 0.7s ease-out;
+  background-image: linear-gradient(rgba(15, 23, 42, 0.8), rgba(15, 23, 42, 0.8)),
+    url('https://images.unsplash.com/photo-1666875753105-c63a6f3bdc86?q=80&w=1173&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+header.hero h1 {
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+}
+
+header.hero p {
+  font-size: 1.1rem;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+/* Skills */
+.skills {
+  max-width: 800px;
+  margin: 3rem auto;
+  padding: 0 1rem;
+}
+
+.skills h2 {
+  font-size: 1.6rem;
+  color: #0f172a;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.skills ul {
+  list-style-type: disc;
+  padding-left: 1.5rem;
+}
+
+/* Projects */
+.projects {
+  max-width: 1000px;
+  margin: 3rem auto;
+  padding: 0 1rem;
+}
+
+.projects h2 {
+  text-align: center;
+  margin-bottom: 2rem;
+  font-size: 1.8rem;
+  color: #0f172a;
+}
+
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2rem;
+}
+
+.card {
+  background: #fff;
+  border-radius: 10px;
+  padding: 1.5rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  transition: all 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
+}
+
+.card h3 {
+  margin-top: 0;
+  font-size: 1.2rem;
+  color: #1e40af;
+}
+
+.card p {
+  font-size: 0.95rem;
+  color: #374151;
+}
+
+.card ul {
+  padding-left: 1.2rem;
+  font-size: 0.9rem;
+  color: #475569;
+}
+
+/* Contact */
+.contact {
+  background: #e2e8f0;
+  text-align: center;
+  padding: 2.5rem 1rem;
+}
+
+.contact h2 {
+  font-size: 1.6rem;
+  margin-bottom: 1rem;
+  color: #0f172a;
+}
+
+.contact p {
+  margin: 0.5rem 0;
+  font-size: 1rem;
+}
+
+.contact a {
+  color: #2563eb;
+  text-decoration: none;
+}
+
+.contact a:hover {
+  text-decoration: underline;
+}
+
+/* Footer */
+footer {
+  background: #cbd5e1;
+  text-align: center;
+  padding: 1rem;
+  font-size: 0.85rem;
+  color: #1e293b;
+}
+
+.footer-links a {
+  margin: 0 0.5rem;
+  color: #1e40af;
+  font-size: 1.2rem;
+}
+
+.footer-links a:hover {
+  color: #1d4ed8;
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+  header.hero h1 {
+    font-size: 2rem;
+  }
+
+  .card {
+    padding: 1.2rem;
+  }
+
+  .skills ul {
+    padding-left: 1rem;
+  }
+}
